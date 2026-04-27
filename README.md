@@ -32,6 +32,6 @@ Este projeto foi criado para facilitar a realização de sorteios rápidos. O us
 
 ---
 
-<div align="right">
+<div align="Center">
   <p>Desenvolvido com ❤️ por IsraelDuarte</p>
 </div>
