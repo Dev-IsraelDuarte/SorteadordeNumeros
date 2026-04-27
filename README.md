@@ -9,7 +9,7 @@
 Este projeto foi criado para facilitar a realização de sorteios rápidos. O usuário define um intervalo (mínimo e máximo), e o sistema gera um número aleatório, mantendo um histórico dos resultados para conferência.
 
 <div align="center">
-  <img src="Captura de tela 2026-04-27 012938.png" alt="Interface do Sorteador" width="600px">
+  <img src="Captura de tela 2026-04-27 012938.png" alt="Interface do Sorteador" width="400px">
   <p><i>Interface principal do Sorteador de Números</i></p>
 </div>
 
@@ -33,5 +33,5 @@ Este projeto foi criado para facilitar a realização de sorteios rápidos. O us
 ---
 
 <div align="right">
-  <p>Desenvolvido com ❤️ por [Seu Nome]</p>
+  <p>Desenvolvido com ❤️ por IsraelDuarte</p>
 </div>
